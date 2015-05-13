@@ -7,7 +7,7 @@
 #
 # Author::    Michael Chaney (mdchaney@michaelchaney.com)
 # Copyright:: Copyright (c) 2014 Michael Chaney Consulting Corporation
-# License::   Diestributed under the terms of the MIT License or the GNU General Public License v. 2
+# License::   Distributed under the terms of the MIT License or the GNU General Public License v. 2
 #
 # == Example
 #  smpte = SMPTE::SMPTE.new('01:00:00:00')
