@@ -13,9 +13,7 @@ comparison, and adding or subtracting.  This handles "drop frame" format
 as well as non-drop frame, so NTSC video times can be calculated and
 manipulated.
 
-I need to turn this into a gem and add a test suite, but throwing code
-on github to make it public for now.  Just "require" it and you can
-create objects with "SMPTE.new...".
+Just "require" it and you can create objects with "SMPTE.new...".
 
 Let me know if this is useful to you at mdchaney@michaelchaney.com.
 
